@@ -53,7 +53,7 @@ C:\TxGameAssistant\ui
 
 Kurulum ve 120 FPS ayarlarının nasıl yapıldığını videodan izleyebilirsiniz.
 
-📺 **YouTube Video:** BURAYA YOUTUBE LİNKİNİ EKLE
+📺 **YouTube Video:**  https://youtu.be/WumrrGvwXl4?si=lHfPtjqWS85Zl9_8
 
 ## ⚠️ Önemli Uyarılar
 
@@ -66,7 +66,7 @@ Kurulum ve 120 FPS ayarlarının nasıl yapıldığını videodan izleyebilirsin
 ## 👨‍💻 Developer
 
 **RAMBO / RBXLOOP**
-
+🌐 discord: https://discord.gg/rrG3aaRtnJ
 🌐 Website: https://rbxloop.com.tr/  
 📺 YouTube: https://www.youtube.com/@RAMBO240fps
 
